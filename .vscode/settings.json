@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.port": 5502,
+  "tailwindCSS.suggestions": true,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.codeActions": true
+}
